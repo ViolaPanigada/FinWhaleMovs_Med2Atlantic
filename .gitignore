@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.rds
+
+# Analysis outputs containing tracking locations
+*.csv
+*.rds
+
+# macOS
+.DS_Store
