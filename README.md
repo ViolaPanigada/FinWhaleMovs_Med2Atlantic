@@ -1,5 +1,7 @@
 ## FinWhaleMovs_Med2Atlantic
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22099638.svg)](https://doi.org/10.5281/zenodo.22099638)
+
 This repository hosts the code used to perform the correlated random walk state-space model and Hidden-Markov Model described in subsection 2.3.2, as reported in:
 > Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego, V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
 > Fin Whale Departures from the North-West Mediterranean Sea Reveal Summer Habitat Use in the North Atlantic and Potential Feeding Opportunities. *Under Review.*
@@ -40,7 +42,7 @@ If you use this code, please cite both the associated article and this repositor
 > Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego, V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
 > Fin Whale Departures from the North-West Mediterranean Sea Reveal Summer Habitat Use in the North Atlantic and Potential Feeding Opportunities *Submitted.*
 
-> Panigada, V. (2026). *FinWhaleMovs_Med2Atlantic* (Version v1.0.0). Zenodo. [ZENODO DOI]
+> Panigada, V. (2026). *FinWhaleMovs_Med2Atlantic* (Version v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.22099638](https://doi.org/10.5281/zenodo.22099638)
 
 ## Contact
 **Viola Panigada**  
