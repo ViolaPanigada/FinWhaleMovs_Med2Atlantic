@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "FinWhaleMovs_Med2Atlantic"
+type: software
+authors:
+  - given-names: "Viola"
+    family-names: "Panigada"
+    orcid: "https://orcid.org/0009-0003-0719-7790"
+version: 1.0.0
+license: MIT
