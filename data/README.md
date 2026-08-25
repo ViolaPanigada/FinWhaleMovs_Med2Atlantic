@@ -1,0 +1,1 @@
+Raw tracking data are not included in this repository. The datasets analyzed during the current study – satellite telemetry data and land-based observations – are available from the corresponding authors upon reasonable request. The satellite telemetry data is available for view-only on the BlueCorridors.org website.
