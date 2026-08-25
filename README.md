@@ -1,14 +1,13 @@
-## Code for *Fin Whale Departures from the North-West Mediterranean Sea Reveal Summer Habitat Use in the North Atlantic and Potential Feeding Opportunities*
+## FinWhaleMovs_Med2Atlantic
 
-This repository hosts the code used to perform the correlated random walk state-space model and Hidden-Markov Model for the the paper:
-
+This repository hosts the code used to perform the correlated random walk state-space model and Hidden-Markov Model described in subsection 2.3.2, as reported in:
 > Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego, V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
 > Fin Whale Departures from the North-West Mediterranean Sea Reveal Summer Habitat Use in the North Atlantic and Potential Feeding Opportunities. *Under Review.*
 
-## Correspondence with the Manuscript
+## Correspondence with the manuscript
 | Script | Manuscript section |
 | --- | --- |
-| `scripts/aniMotum_momentuHMM.R` | CRW state-space model and hidden Markov model behavioural-state analysis — Methods, 2.3.2 |
+| `scripts/aniMotum_momentuHMM.R` | CRW and HMM models — Methods, 2.3.2 |
 
 ## Repository Structure
 ```text
@@ -24,8 +23,8 @@ FinWhaleMovs_Med2Atlantic/
 ```
 
 ## Requirements
-The analysis was performed in R 4.5.2.
-Required R packages:
+The analysis was performed in R 4.5.2. \
+Required R libraries:
 - `aniMotum` (v1.2-15)
 - `momentuHMM` (v2.0.0)
 - `dplyr` (v1.2.0)
@@ -33,8 +32,8 @@ Required R packages:
 
 ## Input data format
 - Format: .csv
-- Required columns: `id`, `date` (YYYY-MM-DD HH:MM:SS), `lc`, `lon`, `lat`, `smaj`, `smin`, `eor`.
-Raw satellite telemetry data are not included in this repository. See the Data Availability section below and data/README.md for additional information.
+- Required columns: `id`, `date` (YYYY-MM-DD HH:MM:SS), `lc`, `lon`, `lat`, `smaj`, `smin`, `eor`. \
+> Note: Raw satellite telemetry data are not included in this repository. See the Data Availability section below and data/README.md for additional information.
 
 ## How to cite
 If you use this code, please cite both the associated article and this repository:
@@ -51,8 +50,7 @@ Tethys Research Institute, Milano, Italy
 
 
 ## License
-
 © 2026 Duke University and collaborators.
-Distributed for academic and non-commercial use under a MIT License.
+Distributed for academic and non-commercial use under a MIT License. See [`LICENSE`](LICENSE) for details. 
 
 ------------------------------------------------------------------------
